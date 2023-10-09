@@ -1,4 +1,4 @@
-# power-bi-dashboad
+# Power-bi-dashboard
 E-Commerce Store Analysis
 
 
