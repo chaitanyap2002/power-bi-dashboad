@@ -1,26 +1,19 @@
 # Power-bi-dashboard
 E-Commerce Store Analysis
-
-
 Description
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file. This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
-
-
-
+This GitHub repository houses a Power BI dashboard designed to dissect and understand the intricacies of an E-commerce store's data. The invaluable insights derived from this dashboard can be located in the results.txt file. This project serves as an excellent stepping stone for individuals keen on harnessing the power of Power BI for data analysis.
 
 Installation
-To run this project on your machine you need to install Microsoft Power Bi.
+To get this project up and running on your local machine, you will need to have Microsoft Power BI installed.
 
 Tools
 Microsoft Power BI
-
-
-
 Project Learnings
-Created an interactive dashboard to track and analyze online sales data.
-Used complex parameters to drill down in worksheet and customization using filters and slicers.
-Created connections, joined new tables, did calculations to manipulate data, and enabled user-driven parameters for visualization.
-Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+In the course of developing this project, we achieved the following milestones:
 
+Crafted an interactive dashboard capable of monitoring and analyzing online sales data.
+Leveraged complex parameters to dive deep into worksheets, incorporating customization via filters and slicers.
+Established connections, integrated new tables, executed calculations to manipulate data, and enabled user-driven parameters for visualization.
+Utilized a wide array of customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, slicers, and more.
 Conclusion
-The project was successful in answering the set of questions about an E-commerce Store's performance.
+This project successfully addressed a comprehensive set of questions surrounding the performance of an E-commerce store. It showcases the capabilities of Power BI in unraveling actionable insights from complex datasets.
